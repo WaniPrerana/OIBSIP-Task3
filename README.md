@@ -6,5 +6,3 @@ This app was built with: HTML, CSS and Vanilla Js
 * Two-way conversion 
 * Live conversion 
 
-# Below is the link to the temperature converter 
-temperature-converter.tobipeters.vercel.app
